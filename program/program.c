@@ -2,6 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 
+
+
+
+
+
+
+
+
+
 void shuffle(int list[], int size)
 {
 	for (int i = 0; i < size; i++)
@@ -15,7 +24,21 @@ void shuffle(int list[], int size)
 		list[i] = temporary;
 	}
 
-    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	
 }
@@ -44,16 +67,19 @@ int main()
 #pragma region Shuffle Function
 
 
+	srand(time(NULL));
+	
 	int list[] = { 1,2,3,4,5,6,7,8,9,10 };
-
+	
 	int size = sizeof(list) / sizeof(list[0]);
-
+	
 	shuffle(list, size);
-
+	
 	for (int i = 0; i < size; i++)
 	{
 		printf("list[%d] = %d\n", i, list[i]);
 	}
+	
 
 
 
@@ -61,7 +87,6 @@ int main()
 
 
 
-//pull request
 
     
 
@@ -73,6 +98,16 @@ int main()
 
 
 
+
+
+
+
+
+
+
+
+
+	 
 
 
 	return 0;
