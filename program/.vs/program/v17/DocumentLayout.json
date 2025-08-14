@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1F039B8-76BD-4872-A8AE-BCD426874FCE}|..\\class1th (Time)\\class1th (Time).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4B186F7-432C-4567-A677-24C1B2185DCB}|program.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\program\\program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C4B186F7-432C-4567-A677-24C1B2185DCB}|program.vcxproj|solutionrelative:program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F039B8-76BD-4872-A8AE-BCD426874FCE}|..\\class1th (Time)\\class1th (Time).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -20,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,13 +28,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
               "RelativeDocumentMoniker": "..\\class1th (Time)\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
               "RelativeToolTip": "..\\class1th (Time)\\souce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-14T02:23:32.186Z",
               "EditorCaption": ""
@@ -53,13 +53,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "program.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\program\\program.c",
               "RelativeDocumentMoniker": "program.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\program\\program.c",
               "RelativeToolTip": "program.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-12T09:13:57.53Z",
               "EditorCaption": ""
