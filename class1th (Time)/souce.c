@@ -85,13 +85,13 @@ int main()
 		{
 			life--;
 
-			printf("answer > computer\n");
+			printf("answer < computer\n");
 		}
 		else if (answer < computer)
 		{
 			life--;
 
-			printf("answer < computer\n");
+			printf("answer > computer\n");
 		}
 
 		printf("\n");
