@@ -20,7 +20,7 @@ void update_health(int size)
 {
 	for (int i = 0; i < size; i++)
 	{
-		printf("♥");
+		printf("♥"); 
 	}
 
 	printf("\n");
