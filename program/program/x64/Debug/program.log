@@ -1,2 +1,9 @@
 ﻿  program.c
-  program.vcxproj -> C:\Users\Administrator\Desktop\SBS-computer2\program\x64\Debug\program.exe
+C:\Users\seokjun\OneDrive\Desktop\SBS-computer2\program\program.c(19,6): error C2374: 'list': 재정의. 여러 번 초기화했습니다.
+      C:\Users\seokjun\OneDrive\Desktop\SBS-computer2\program\program.c(15,6):
+      'list' 선언을 참조하십시오.
+  
+C:\Users\seokjun\OneDrive\Desktop\SBS-computer2\program\program.c(21,6): error C2374: 'list': 재정의. 여러 번 초기화했습니다.
+      C:\Users\seokjun\OneDrive\Desktop\SBS-computer2\program\program.c(15,6):
+      'list' 선언을 참조하십시오.
+  
