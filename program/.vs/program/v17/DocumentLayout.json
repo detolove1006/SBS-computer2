@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{C4B186F7-432C-4567-A677-24C1B2185DCB}|program.vcxproj|solutionrelative:program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DCD4CF6F-58DD-4369-A681-86AAE2C6CE27}|..\\class3th (input system)\\class3th (input system).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class3th (input system)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B52085AA-F0D4-49E4-8C7F-1BF1936AF251}|..\\class2th (file input \u0026 output)\\class2th (file input \u0026 output).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class2th (file input \u0026 output)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -23,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,37 +36,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "souce.c",
-              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class2th (file input \u0026 output)\\souce.c",
-              "RelativeDocumentMoniker": "..\\class2th (file input \u0026 output)\\souce.c",
-              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class2th (file input \u0026 output)\\souce.c",
-              "RelativeToolTip": "..\\class2th (file input \u0026 output)\\souce.c",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAFIAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class3th (input system)\\souce.c",
+              "RelativeDocumentMoniker": "..\\class3th (input system)\\souce.c",
+              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class3th (input system)\\souce.c",
+              "RelativeToolTip": "..\\class3th (input system)\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T09:41:21.774Z",
+              "WhenOpened": "2025-08-19T09:44:12.01Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "souce.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-14T09:45:44.163Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "souce.c",
-              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
-              "RelativeDocumentMoniker": "..\\class1th (Time)\\souce.c",
-              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
-              "RelativeToolTip": "..\\class1th (Time)\\souce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class2th (file input \u0026 output)\\souce.c",
+              "RelativeDocumentMoniker": "..\\class2th (file input \u0026 output)\\souce.c",
+              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class2th (file input \u0026 output)\\souce.c",
+              "RelativeToolTip": "..\\class2th (file input \u0026 output)\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-14T02:23:32.186Z",
+              "WhenOpened": "2025-08-18T09:41:21.774Z",
               "EditorCaption": ""
             },
             {
@@ -74,10 +66,33 @@
               "RelativeDocumentMoniker": "program.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\program\\program.c",
               "RelativeToolTip": "program.c",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-12T09:13:57.53Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "souce.c",
+              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
+              "RelativeDocumentMoniker": "..\\class1th (Time)\\souce.c",
+              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
+              "RelativeToolTip": "..\\class1th (Time)\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-14T02:23:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "souce.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-computer2\\class1th (Time)\\souce.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-14T09:45:44.163Z"
             }
           ]
         }

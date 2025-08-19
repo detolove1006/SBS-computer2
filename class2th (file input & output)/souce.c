@@ -8,7 +8,7 @@ void load(const char* file_name)
 
 	char buffer[SIZE] = { 0, };
 
-	fread(buffer, 1, SIZE, file);
+	fread(buffer, 1, SIZE, file); 
 
 	printf("%s", buffer);
 
@@ -34,7 +34,7 @@ int main()
 
 	// "r" : 읽기 전용 (파일이 없을 때 : NULL)
 	// "w" : 쓰기 전용 (새로 파일을 생성)
-	// "a" : 추가 모드 (새로운 파일을 생성 - 기존에 있는 파일에 내용을 추가)
+	 //"a" : 추가 모드 (새로운 파일을 생성 - 기존에 있는 파일에 내용을 추가)
 
 
 	//FILE* file = fopen("data.txt", "w");
@@ -63,14 +63,14 @@ int main()
 
 #pragma region File Read
 
-	FILE* file = fopen("OIP.txt", "r");
+	 FILE* file = fopen("data.txt", "r");
 
 	char buffer[SIZE] = { 0, };
 
-	// 1. buffer : 읽을 데이터를 저장할 메모리
-	// 2. element size : 각 데이터 항목의 크기
-	// 3. element count : 데이터를 읽어올 데이터 항목의 수
-	// 4. stream : 데이터를 읽어올 파일 포인터
+	 //1. buffer : 읽을 데이터를 저장할 메모리
+	 //2. element size : 각 데이터 항목의 크기
+	 //3. element count : 데이터를 읽어올 데이터 항목의 수
+	 //4. stream : 데이터를 읽어올 파일 포인터
 
 	fread(buffer, 1, SIZE, file);
 
@@ -80,7 +80,7 @@ int main()
 
 	fclose(file);
 
-	load("OIP.TXT");
+	load("poketmon.TXT");
 
 
 
